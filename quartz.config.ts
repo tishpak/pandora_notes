@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Поток сознания Глима 🧠",
+    pageTitle: "Поток сознания Глима 🧠👀",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
