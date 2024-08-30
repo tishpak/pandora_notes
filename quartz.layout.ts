@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     zoom: true,
     depth: -1,
     scale: 0.9,
-    repelForce: 1.5,
+    repelForce: 1.2,
     centerForce: 1.0,
     linkDistance: 100,
     fontSize: 0.6,
