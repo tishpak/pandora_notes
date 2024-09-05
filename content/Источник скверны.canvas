@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"39e3da23d79d8bb7","type":"file","file":"Скверна.md","x":-115,"y":-207,"width":400,"height":400},
 		{"id":"063c134a1376387c","type":"file","file":"Сказки.md","x":285,"y":440,"width":441,"height":382},
-		{"id":"f30fb954f3e0b001","type":"file","file":"НИП и наши герои/Шиза.md","x":-360,"y":380,"width":400,"height":400}
+		{"id":"f30fb954f3e0b001","type":"file","file":"НИП и наши герои/Шиза.md","x":-400,"y":240,"width":400,"height":400,"color":"5"},
+		{"id":"39e3da23d79d8bb7","type":"file","file":"Скверна.md","x":-400,"y":-400,"width":400,"height":400}
 	],
 	"edges":[]
 }
