@@ -30,7 +30,7 @@ title: Заметки о Пандоре
 
 А это ссылка на дневник, который ведёт Кирана, там много полезных записей - [дорогой дневник](https://docs.google.com/presentation/d/1i4mPgJVHfyqAF6zGkZN-Uvk8XjKjWVL_TjmWCBL4INs/edit?usp=drivesdk).
 
-Тут хранится лутник - всё магическое и прикольно, что мы нашли в наших приключениях - [лутник в гугл доках](https://docs.google.com/document/d/1HjTXqP0qbsA63Lp7v0dtd8H06ULfxlJYmUlbUIWr4_I/edit?usp=sharing).
+Тут хранится лутник - всё магическое и прикольное, что мы нашли в наших приключениях - [лутник в гугл доках](https://docs.google.com/document/d/1HjTXqP0qbsA63Lp7v0dtd8H06ULfxlJYmUlbUIWr4_I/edit?usp=sharing).
 
 ---
 Я пытаюсь сделать макрос, который бы обсчитывал все затраты на создание предмета. Вот мои заметки про это - [[Крафт предметов и всё с ним связанное|макрос для крафта]].
